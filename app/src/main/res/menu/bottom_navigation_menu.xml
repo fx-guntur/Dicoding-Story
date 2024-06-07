@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/home_24px"
+        android:title="@string/label_menu_home" />
+    <item
+        android:id="@+id/addFragment"
+        android:enabled="true"
+        android:icon="@drawable/add_24px"
+        android:title="@string/label_menu_add_story" />
+    <item
+        android:id="@+id/profileFragment"
+        android:enabled="true"
+        android:icon="@drawable/account_circle_24px"
+        android:title="@string/label_menu_profile" />
+    <item
+        android:id="@+id/mapsActivity"
+        android:enabled="true"
+        android:icon="@drawable/travel_explore_24px"
+        android:title="@string/menu_label_maps" />
+</menu>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+
+    <string name="full_name_hint">Masukkan Nama Lengkap Anda</string>
+    <string name="full_name_check">Hanya huruf yang diizinkan</string>
+
+    <string name="email_hint">Masukkan Email Anda</string>
+    <string name="email_check">Format email salah</string>
+
+    <string name="password_hint">Masukkan Kata Sandi Anda</string>
+    <string name="password_check">Min 8 Karakter</string>
+
+    <string name="title_menu_1">Kurikulum Standar Industri Global</string>
+    <string name="title_menu_2">Pembelajaran Fleksibel Sesuai Jadwal Anda</string>
+    <string name="title_menu_3">Kode Tinjauan dari Pakar Developer</string>
+    <string name="desc_menu_1">Kurikulum dikembangkan bekerja sama dengan perusahaan dan pemilik teknologi dunia untuk memenuhi kebutuhan industri saat ini.</string>
+    <string name="desc_menu_2">Belajar kapan saja, di mana saja, secara mandiri. Pilih kelas sesuai minat belajar Anda. Akses seumur hidup ke kelas dan forum diskusi setelah lulus.</string>
+    <string name="desc_menu_3">Validasi keterampilan Anda melalui Tinjauan Kode Profesional 1-on-1 yang disediakan langsung oleh Pakar Developer.</string>
+    <string name="learn_now">Mulai Belajar Sekarang</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dicoding_image">gambar dicoding</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="let_s_share_your_moment_with_us">Mari bagikan momen Anda dengan kami!</string>
+    <string name="email">Email :</string>
+    <string name="password">Kata Sandi :</string>
+    <string name="validation_is_empty">Kolom ini tidak boleh kosong</string>
+    <string name="validation_password">Min 8 Karakter</string>
+    <string name="sign_in_success">Masuk berhasil!</string>
+    <string name="sign_in_failed">Masuk gagal!</string>
+    <string name="sign_up_success">Pendaftaran berhasil!</string>
+    <string name="sign_in_button_text">Masuk</string>
+    <string name="sign_in_dialogue">Belum memiliki akun?</string>
+    <string name="sign_up_hyperlink">Daftar</string>
+    <string name="sign_up_button_text">Daftar</string>
+    <string name="sign_up_dialogue">Sudah memiliki akun?</string>
+    <string name="sign_in_hyperlink">Masuk</string>
+    <string name="full_name">Nama Lengkap :</string>
+    <string name="user_story_label">Pengguna</string>
+    <string name="description_story_label">deskripsi</string>
+    <string name="date_story_label">tanggal</string>
+    <string name="fail_to_load">Terjadi kesalahan!</string>
+    <string name="label_image_picker_method">Metode pemilih gambar</string>
+    <string name="dialogue_permission_denied">Izin ditolak! tidak dapat membuka kamera dan galeri</string>
+    <string name="label_description_empty">silakan tambahkan deskripsi</string>
+    <string name="label_photo_empty">Foto kosong! silakan tambahkan foto terlebih dahulu!</string>
+    <string name="dialogue_upload_success">Unggah berhasil!</string>
+    <string name="label_upload">Unggah</string>
+    <string name="label_back_to_main_menu">Kembali ke Menu Utama</string>
+    <string name="label_theme">Tema</string>
+    <string name="label_dark_theme">Tema Gelap</string>
+    <string name="label_profile_settings">Pengaturan Profil</string>
+    <string name="label_language">Bahasa</string>
+    <string name="label_radio_en">Inggris</string>
+    <string name="label_radio_in">Indonesia</string>
+    <string name="label_logout">Keluar</string>
+    <string name="label_menu_home">Beranda</string>
+    <string name="label_menu_add_story">Tambah cerita</string>
+    <string name="label_menu_profile">Profil</string>
+    <string name="label_user">Pengguna :</string>
+    <string name="label_desc">Deskripsi :</string>
+    <string name="label_upload_at">Diupload pada :</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="menu_label_maps">Peta</string>
+    <string name="label_retry_button">Retry</string>
+    <string name="label_add_latitude">Latitude :</string>
+    <string name="label_unknown">Tidak diketahui</string>
+    <string name="label_add_longtitude">Longitude :</string>
+    <string name="label_location_permission_needed">Perlu ijin lokasi</string>
+    <string name="label_need_location">Aplikasi ini membutuhkan ijin lokasi! Tambahkan ijin terlebih dahulu</string>
+    <string name="label_story_empty">Cerita kosong</string>
+    <string name="get_current_location">Tambah lokasi saat ini</string>
+
+    <string-array name="pictures_method">
+        <item>Ambil Gambar</item>
+        <item>Pilih dari Galeri</item>
+    </string-array>
+</resources>

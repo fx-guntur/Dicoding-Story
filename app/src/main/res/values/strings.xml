@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+
+    <string name="full_name_hint">Enter Your Full name</string>
+    <string name="full_name_check">Only character allowed</string>
+
+    <string name="email_hint">Enter Your Email</string>
+    <string name="email_check">Incorrect email format</string>
+
+    <string name="password_hint">Enter Your Password</string>
+
+    <string name="title_menu_1">Global Industry Standard Curriculum</string>
+    <string name="title_menu_2">Flexible Learning According to Your Schedule</string>
+    <string name="title_menu_3">Code Review from Developer Experts</string>
+    <string name="desc_menu_1">The curriculum is developed in collaboration with companies and world technology owners to meet the needs of the current industry.</string>
+    <string name="desc_menu_2">Learn anytime, anywhere, independently. Choose classes according to your learning interests. Lifetime access to classes and discussion forums after graduation.</string>
+    <string name="desc_menu_3">Validate your skills through 1-on-1 Professional Code Review provided directly by Developer Experts.</string>
+    <string name="learn_now">Start Learning Now</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dicoding_image">dicoding image</string>
+    <string name="welcome">Welcome</string>
+    <string name="let_s_share_your_moment_with_us">Let\'s share your moment with us!</string>
+    <string name="email">Email :</string>
+    <string name="password">Password :</string>
+    <string name="validation_is_empty">This field must not be empty</string>
+    <string name="validation_password">Min 8 Characters</string>
+    <string name="sign_in_success">Sign in success!</string>
+    <string name="sign_in_failed">Sign in failed!</string>
+    <string name="sign_up_success">Register success!</string>
+    <string name="sign_in_button_text">Login</string>
+    <string name="sign_in_dialogue">Don\'t have any account yet?</string>
+    <string name="sign_up_hyperlink">Sign Up</string>
+    <string name="sign_up_button_text">Register</string>
+    <string name="sign_up_dialogue">Already have an account?</string>
+    <string name="sign_in_hyperlink">Sign In</string>
+    <string name="full_name">Full Name :</string>
+    <string name="user_story_label">User</string>
+    <string name="description_story_label">description</string>
+    <string name="date_story_label">date</string>
+    <string name="fail_to_load">Something went wrong!</string>
+    <string name="label_image_picker_method">Image picker method</string>
+    <string name="dialogue_permission_denied">Permission denied! can\'t open camera and gallery</string>
+    <string name="label_description_empty">please add the description</string>
+    <string name="label_photo_empty">Empty photo! please add the photo first!</string>
+    <string name="dialogue_upload_success">Upload success!</string>
+    <string name="label_upload">Upload</string>
+    <string name="label_back_to_main_menu">Back to Main Menu</string>
+    <string name="label_theme">Theme</string>
+    <string name="label_dark_theme">Dark Theme</string>
+    <string name="label_profile_settings">Profile Settings</string>
+    <string name="label_language">Language</string>
+    <string name="label_radio_en">English</string>
+    <string name="label_radio_in">Indonesia</string>
+    <string name="label_logout">Logout</string>
+    <string name="label_menu_home">Home</string>
+    <string name="label_menu_add_story">Add story</string>
+    <string name="label_menu_profile">Profile</string>
+    <string name="label_user">User :</string>
+    <string name="label_desc">Desc :</string>
+    <string name="label_upload_at">Upload at :</string>
+
+    <string-array name="pictures_method">
+        <item>Take Picture</item>
+        <item>Choose from Gallery</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="menu_label_maps">Maps</string>
+    <string name="label_retry_button">Retry</string>
+    <string name="label_add_latitude">Latitude :</string>
+    <string name="label_unknown">Unknown</string>
+    <string name="label_add_longtitude">Longitude :</string>
+    <string name="label_location_permission_needed">Location Permission Needed</string>
+    <string name="label_need_location">This app needs the Location permission, please allow first</string>
+    <string name="get_current_location">Get current location</string>
+</resources>
